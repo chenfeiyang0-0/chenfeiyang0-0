@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chenfeiyang0-0
 - 👀 I’m interested in code writting
 - 🌱 I’m currently learning github
-- 💞️ I’m looking to collaborate on machine learing
+- 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me ...m13697272862@163.com
 
 <!---
